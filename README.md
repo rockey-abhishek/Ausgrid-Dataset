@@ -1,7 +1,7 @@
 # Ausgrid-Dataset
 Data Cleaning, EDA and Visulization of solar enegy production, comsuption price and demand data from Augrid
 
-Unzip Data.zip to acess dqat before running the notebooks
+Unzip Data.zip to access data before running the notebooks
 
 Brief Description and link to the raw Data can be found in Ausgrid solar home electricity data notes (Aug 2014).pdf
 
